@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=lxqt-runner
+Icon=unknown--usr-bin-lxqt-runner
+TryExec=/usr/bin/lxqt-runner
+Exec=/usr/bin/lxqt-runner

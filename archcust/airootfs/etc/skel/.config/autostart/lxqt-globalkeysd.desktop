@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=lxqt-globalkeysd
+Icon=unknown--usr-bin-lxqt-globalkeysd
+TryExec=/usr/bin/lxqt-globalkeysd
+Exec=/usr/bin/lxqt-globalkeysd

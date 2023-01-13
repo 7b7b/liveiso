@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=qxkb
+Icon=unknown--usr-bin-qxkb
+TryExec=/usr/bin/qxkb
+Exec=/usr/bin/qxkb

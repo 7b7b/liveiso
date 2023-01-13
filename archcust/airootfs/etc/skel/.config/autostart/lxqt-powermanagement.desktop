@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=lxqt-powermanagement
+Icon=unknown--usr-bin-lxqt-powermanagement
+TryExec=/usr/bin/lxqt-powermanagement
+Exec=/usr/bin/lxqt-powermanagement

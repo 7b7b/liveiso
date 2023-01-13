@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=lxqt-notificationd
+Icon=unknown--usr-bin-lxqt-notificationd
+TryExec=/usr/bin/lxqt-notificationd
+Exec=/usr/bin/lxqt-notificationd
